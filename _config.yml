@@ -1,11 +1,11 @@
 # Site settings
 title: "Los Angeles: The City and the Library"
-email: kirschbombe@gmail.com
+# email: 
 description:
-baseurl: "/flaneur" # the subpath of your site, e.g. /blog/
+baseurl: "/lyricalmap" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-twitter_username: kirschbombe
-github_username:  kirschbombe
+# twitter_username: 
+github_username:  CityStoriesUCLA
 
 # Build settings
 markdown: kramdown
