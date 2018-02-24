@@ -20,7 +20,7 @@ html {
 }
 
 h1, h2, h3, h4 {
-  font-family: "Lato", sans-serif;
+  font-family: "Voltaire", sans-serif;
   color: {{site.accent_color}};
 }
 
